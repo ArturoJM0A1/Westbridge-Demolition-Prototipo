@@ -37,8 +37,8 @@
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(to right, rgba(7, 9, 12, 0.92) 0%, rgba(7, 9, 12, 0.55) 55%, rgba(7, 9, 12, 0.35) 100%),
-    linear-gradient(to top, rgba(7, 9, 12, 0.9), transparent 40%);
+    linear-gradient(to right, rgba(10, 10, 12, 0.92) 0%, rgba(10, 10, 12, 0.55) 55%, rgba(10, 10, 12, 0.35) 100%),
+    linear-gradient(to top, rgba(10, 10, 12, 0.9), transparent 40%);
 }
 .home-hero__scanline {
   position: absolute;
@@ -88,7 +88,7 @@
   font-weight: var(--fw-bold);
   text-transform: uppercase;
   line-height: 1.02;
-  text-shadow: 0 2px 30px rgba(7, 9, 12, 0.5);
+  text-shadow: 0 2px 30px rgba(10, 10, 12, 0.5);
 }
 .home-hero__lead {
   font-size: var(--fs-lg);
@@ -127,7 +127,7 @@
   left: 0;
   right: 0;
   padding-block: var(--space-3);
-  background: rgba(7, 9, 12, 0.6);
+  background: rgba(10, 10, 12, 0.6);
   border-top: 1px solid rgba(255, 255, 255, 0.08);
   overflow: hidden;
   z-index: var(--z-base);
@@ -253,10 +253,13 @@
   white-space: nowrap;
 }
 .certifications-strip__item::before {
-  content: '◆';
-  color: var(--color-yellow-400);
+  content: '';
+  width: 6px;
+  height: 6px;
+  background: var(--color-yellow-400);
+  transform: rotate(45deg);
   margin-right: var(--space-8);
-  font-size: 0.7rem;
+  flex: none;
 }
 
 /* ---------- Contact preview ---------- */
@@ -328,7 +331,7 @@
   inset: 0;
   background: radial-gradient(
     circle at 90% 10%,
-    rgba(245, 184, 46, 0.18),
+    rgba(201, 151, 46, 0.18),
     transparent 45%
   );
 }

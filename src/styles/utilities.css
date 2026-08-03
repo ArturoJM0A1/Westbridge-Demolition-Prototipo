@@ -147,7 +147,7 @@
 
 .pattern-grid-light {
   background-image:
-    linear-gradient(rgba(13, 17, 23, 0.045) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(13, 17, 23, 0.045) 1px, transparent 1px);
+    linear-gradient(rgba(16, 16, 19, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(16, 16, 19, 0.045) 1px, transparent 1px);
   background-size: 44px 44px;
 }

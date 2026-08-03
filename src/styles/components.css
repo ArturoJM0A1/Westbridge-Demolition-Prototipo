@@ -45,7 +45,7 @@
     var(--color-accent) 55%,
     var(--color-yellow-500)
   );
-  box-shadow: 0 1px 4px rgba(7, 9, 12, 0.22);
+  box-shadow: 0 1px 4px rgba(10, 10, 12, 0.22);
 }
 
 /* ---------- Button ---------- */
@@ -189,7 +189,7 @@
   font-size: var(--fs-section);
   font-weight: var(--fw-bold);
   text-transform: uppercase;
-  letter-spacing: 0.015em;
+  letter-spacing: -0.01em;
 }
 .section-heading--dark .section-heading__title {
   color: var(--color-text-primary);
@@ -434,7 +434,7 @@
 .select:focus-visible {
   outline: none;
   border-color: var(--color-ink-900);
-  box-shadow: 0 0 0 3px rgba(13, 17, 23, 0.12);
+  box-shadow: 0 0 0 3px rgba(16, 16, 19, 0.12);
 }
 .input--invalid,
 .textarea--invalid {
@@ -536,7 +536,7 @@
 .modal__backdrop {
   position: absolute;
   inset: 0;
-  background: rgba(7, 9, 12, 0.72);
+  background: rgba(10, 10, 12, 0.72);
   backdrop-filter: blur(3px);
   animation: fade-in var(--duration-base) ease;
 }
@@ -785,7 +785,7 @@
   inset: 0;
   background: radial-gradient(
     circle at 85% 0%,
-    rgba(245, 184, 46, 0.14),
+    rgba(201, 151, 46, 0.14),
     transparent 42%
   );
   pointer-events: none;
@@ -870,8 +870,8 @@
   inset: 0;
   background: linear-gradient(
     to bottom,
-    rgba(7, 9, 12, 0.55),
-    rgba(7, 9, 12, 0.82) 100%
+    rgba(10, 10, 12, 0.55),
+    rgba(10, 10, 12, 0.82) 100%
   );
 }
 .page-hero__content {
@@ -911,7 +911,7 @@
     box-shadow var(--transition-base);
 }
 .site-header--scrolled {
-  background: rgba(13, 17, 23, 0.94);
+  background: rgba(16, 16, 19, 0.94);
   backdrop-filter: blur(10px);
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.08), var(--shadow-md);
 }
@@ -1092,7 +1092,7 @@
   content: '';
   position: absolute;
   inset: 0;
-  background: rgba(7, 9, 12, 0.55);
+  background: rgba(10, 10, 12, 0.55);
   backdrop-filter: blur(2px);
 }
 .mobile-menu__header {
@@ -1511,12 +1511,10 @@
 }
 .testimonial-card__mark {
   position: absolute;
-  top: -0.4rem;
+  top: var(--space-5);
   right: var(--space-5);
-  font-family: var(--font-display);
-  font-size: 6rem;
-  line-height: 1;
-  color: var(--color-gray-200);
+  color: var(--color-gray-300);
+  opacity: 0.5;
   pointer-events: none;
 }
 .testimonial-card__quote {

@@ -5,6 +5,7 @@
 import { memo } from 'react';
 import { Card } from '@/components/ui/Card';
 import { Stars } from '@/components/ui/Stars';
+import { Icon } from '@/components/ui/Icon';
 import type { Testimonial } from '@/types';
 
 interface TestimonialCardProps {
@@ -17,7 +18,7 @@ export const TestimonialCard = memo(function TestimonialCard({
   return (
     <Card as="article" className="testimonial-card">
       <span className="testimonial-card__mark" aria-hidden="true">
-        &ldquo;
+        <Icon name="quote" size={48} strokeWidth={1} />
       </span>
       <Stars rating={testimonial.rating} />
       <blockquote className="testimonial-card__quote">{testimonial.quote}</blockquote>

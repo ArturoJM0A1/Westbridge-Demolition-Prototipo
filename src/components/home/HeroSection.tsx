@@ -74,15 +74,15 @@ export const HeroSection = memo(function HeroSection() {
           {[0, 1].map((set) => (
             <div className="home-hero__ticker-group" key={set}>
               <span>Miami</span>
-              <span className="tick-sep">◆</span>
+              <Icon name="diamond" size={10} className="tick-sep" />
               <span>Fort Lauderdale</span>
-              <span className="tick-sep">◆</span>
+              <Icon name="diamond" size={10} className="tick-sep" />
               <span>West Palm Beach</span>
-              <span className="tick-sep">◆</span>
+              <Icon name="diamond" size={10} className="tick-sep" />
               <span>Doral</span>
-              <span className="tick-sep">◆</span>
+              <Icon name="diamond" size={10} className="tick-sep" />
               <span>Coral Gables</span>
-              <span className="tick-sep">◆</span>
+              <Icon name="diamond" size={10} className="tick-sep" />
             </div>
           ))}
         </div>

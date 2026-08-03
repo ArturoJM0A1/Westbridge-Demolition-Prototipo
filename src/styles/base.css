@@ -87,7 +87,7 @@ h6 {
   font-family: var(--font-display);
   font-weight: var(--fw-semibold);
   line-height: var(--lh-tight);
-  letter-spacing: 0.01em;
+  letter-spacing: -0.015em;
   text-wrap: balance;
 }
 
