@@ -1,0 +1,30 @@
+[
+  {
+    "id": "projects",
+    "value": 480,
+    "suffix": "+",
+    "label": "Proyectos entregados",
+    "detail": "Desde 2003 en el sur de Florida"
+  },
+  {
+    "id": "tons",
+    "value": 2,
+    "suffix": "M",
+    "label": "Toneladas recicladas",
+    "detail": "Materiales reutilizados y desviados de vertedero"
+  },
+  {
+    "id": "safety-hours",
+    "value": 1,
+    "suffix": "M",
+    "label": "Horas-hombre sin pérdidas",
+    "detail": "Certificación de seguridad corporativa"
+  },
+  {
+    "id": "experience",
+    "value": 22,
+    "suffix": "+",
+    "label": "Años de experiencia",
+    "detail": "Contratista licenciado y con seguro completo"
+  }
+]

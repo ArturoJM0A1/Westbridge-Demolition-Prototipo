@@ -1,0 +1,44 @@
+[
+  {
+    "id": "osha",
+    "name": "OSHA 30-Hour Certification",
+    "issuer": "OSHA — Occupational Safety & Health Administration",
+    "description": "Supervisores con certificación OSHA 30 y operadores con formación de 100% de la cuadrilla en estándares 29 CFR 1926.",
+    "icon": "shield"
+  },
+  {
+    "id": "fdot",
+    "name": "CUALIFIED FDOT Contractor",
+    "issuer": "Florida Department of Transportation",
+    "description": "Contratista calificado del FDOT para trabajos de infraestructura y demolición en zonas de vía pública.",
+    "icon": "road"
+  },
+  {
+    "id": "dep",
+    "name": "Licencias Florida DEP",
+    "issuer": "Florida Department of Environmental Protection",
+    "description": "Supervisores licenciados para remediación de asbesto y materiales peligrosos bajo normativa DEP y EPA.",
+    "icon": "leaf"
+  },
+  {
+    "id": "isnetworld",
+    "name": "ISNetworld® / Avetta® Verified",
+    "issuer": "Plataformas de gestión de proveedores",
+    "description": "Perfiles verificados de seguridad y cumplimiento para contratar con Fortune 500 y el sector público.",
+    "icon": "check"
+  },
+  {
+    "id": "leed",
+    "name": "Cumplimiento LEED®",
+    "issuer": "U.S. Green Building Council",
+    "description": "Contribución documentada a créditos LEED de materiales reciclados y gestión de residuos de construcción.",
+    "icon": "leaf"
+  },
+  {
+    "id": "fl-license",
+    "name": "Contratista Licenciado Florida",
+    "issuer": "Florida Department of Business & Professional Regulation",
+    "description": "Licencia de contratista general de Florida vigente, con fianza y seguro general de responsabilidad.",
+    "icon": "badge"
+  }
+]

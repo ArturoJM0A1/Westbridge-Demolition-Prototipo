@@ -1,0 +1,42 @@
+/* ============================================================
+   ProjectCard — portfolio card for the gallery.
+   ============================================================ */
+
+import { memo } from 'react';
+import { Link } from 'react-router-dom';
+import { Card } from '@/components/ui/Card';
+import { SmartImage } from '@/components/ui/SmartImage';
+import { Badge } from '@/components/ui/Badge';
+import { Icon } from '@/components/ui/Icon';
+import type { Project } from '@/types';
+
+interface ProjectCardProps {
+  project: Project;
+  categoryLabel: string;
+}
+
+export const ProjectCard = memo(function ProjectCard({ project, categoryLabel }: ProjectCardProps) {
+  return (
+    <Card as="article" className="project-card" interactive padding="none">
+      <Link to={`/proyectos/${project.slug}`} className="project-card__link">
+        <div className="project-card__media">
+          <SmartImage src={project.image.src} alt={project.image.alt} ratio="4 / 3" />
+          <Badge tone="accent" className="project-card__badge">
+            {categoryLabel}
+          </Badge>
+        </div>
+        <div className="project-card__body">
+          <p className="project-card__meta">
+            {project.location} · {project.year}
+          </p>
+          <h3 className="project-card__title">{project.title}</h3>
+          <p className="project-card__summary">{project.summary}</p>
+          <span className="project-card__cta">
+            Ver proyecto
+            <Icon name="arrow-up-right" size={16} />
+          </span>
+        </div>
+      </Link>
+    </Card>
+  );
+});

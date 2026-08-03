@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mission",
+    "icon": "target",
+    "title": "Misión",
+    "description": "Convertir espacios complejos en oportunidades de desarrollo, ejecutando demoliciones comerciales con precisión de ingeniería, seguridad sin concesiones y respeto por el entorno."
+  },
+  {
+    "id": "vision",
+    "icon": "eye",
+    "title": "Visión",
+    "description": "Ser el contratista de demolición de referencia del sur de Florida, reconocido por combinar capacidad industrial con el estándar más alto de seguridad y sostenibilidad."
+  },
+  {
+    "id": "integrity",
+    "icon": "diamond",
+    "title": "Integridad",
+    "description": "Cumplimos lo que prometemos: cronogramas, presupuestos y compromisos. La palabra de Westbridge es parte del contrato."
+  },
+  {
+    "id": "safety-first",
+    "icon": "shield",
+    "title": "Seguridad primero",
+    "description": "Ninguna producción justifica un riesgo. Cada tarea se analiza, planifica y ejecuta con protocolos verificables."
+  },
+  {
+    "id": "excellence",
+    "icon": "award",
+    "title": "Excelencia técnica",
+    "description": "Invertimos continuamente en equipos, formación e ingeniería para resolver los retos más difíciles del mercado."
+  },
+  {
+    "id": "stewardship",
+    "icon": "recycle",
+    "title": "Gestión responsable",
+    "description": "Tratamos cada material como un recurso. Nuestro compromiso ambiental está en el 91% de reciclaje que entregamos."
+  }
+]

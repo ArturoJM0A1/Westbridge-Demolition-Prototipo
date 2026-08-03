@@ -1,0 +1,153 @@
+/* ============================================================
+   Utilities & shared patterns
+   ============================================================ */
+
+.container {
+  width: 100%;
+  max-width: var(--container-max);
+  margin-inline: auto;
+  padding-inline: var(--container-pad);
+}
+
+.container--fluid {
+  max-width: none;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.section {
+  padding-block: var(--section-pad);
+}
+
+.section--alt {
+  background-color: var(--color-surface-alt);
+}
+
+.section--inverse {
+  background-color: var(--color-surface-inverse);
+  color: var(--color-text-inverse);
+}
+
+.section--inverse-2 {
+  background-color: var(--color-surface-inverse-2);
+  color: var(--color-text-inverse);
+}
+
+/* Kicker: small uppercase label above titles */
+.kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-3);
+  font-size: var(--fs-xs);
+  font-weight: var(--fw-semibold);
+  letter-spacing: var(--ls-wider);
+  text-transform: uppercase;
+  color: var(--color-gray-600);
+}
+
+.kicker::before {
+  content: '';
+  width: 2rem;
+  height: var(--border-width-thick);
+  background-color: var(--color-blue-600);
+}
+
+.kicker--light {
+  color: var(--color-text-inverse-muted);
+}
+
+.kicker--light::before {
+  background-color: var(--color-blue-400);
+}
+
+.text-accent {
+  color: var(--color-accent);
+}
+
+.text-muted {
+  color: var(--color-text-muted);
+}
+
+.grid {
+  display: grid;
+  gap: var(--grid-gap);
+}
+
+.grid--2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+.grid--3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+.grid--4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 992px) {
+  .grid--4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 680px) {
+  .grid--2,
+  .grid--3,
+  .grid--4 {
+    grid-template-columns: 1fr;
+  }
+}
+
+.flow > * + * {
+  margin-top: var(--space-5);
+}
+
+/* Staggered reveal used by scroll animations */
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity var(--duration-slow) var(--ease-out),
+      transform var(--duration-slow) var(--ease-out);
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Decorative industrial hairlines */
+.hairline {
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--color-border) 15%,
+    var(--color-border) 85%,
+    transparent
+  );
+}
+
+/* Subtle grid background pattern for dark surfaces */
+.pattern-grid {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size: 44px 44px;
+}
+
+.pattern-grid-light {
+  background-image:
+    linear-gradient(rgba(13, 17, 23, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(13, 17, 23, 0.045) 1px, transparent 1px);
+  background-size: 44px 44px;
+}

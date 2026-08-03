@@ -1,0 +1,28 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='675' viewBox='0 0 1200 675'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0' stop-color='#1d2631'/>
+      <stop offset='0.55' stop-color='#07090c'/>
+      <stop offset='1' stop-color='#05070a'/>
+    </linearGradient>
+    <linearGradient id='glow' x1='0' y1='1' x2='0' y2='0'>
+      <stop offset='0' stop-color='#f5b82e' stop-opacity='0.22'/>
+      <stop offset='1' stop-color='#f5b82e' stop-opacity='0'/>
+    </linearGradient>
+  </defs>
+  <rect width='1200' height='675' fill='url(#bg)'/>
+  <line x1='650' y1='0' x2='490' y2='520' stroke='rgba(255,255,255,0.05)' stroke-width='1'/> <line x1='347' y1='0' x2='187' y2='520' stroke='rgba(255,255,255,0.05)' stroke-width='1'/> <line x1='262' y1='0' x2='102' y2='520' stroke='rgba(255,255,255,0.05)' stroke-width='1'/> <line x1='556' y1='0' x2='396' y2='520' stroke='rgba(255,255,255,0.05)' stroke-width='1'/> <line x1='319' y1='0' x2='159' y2='520' stroke='rgba(255,255,255,0.05)' stroke-width='1'/>
+  <rect x='198' y='44' width='80' height='60' fill='none' stroke='rgba(255,255,255,0.06)' stroke-width='1' transform='skewX(-12)'/> <rect x='35' y='196' width='80' height='60' fill='none' stroke='rgba(255,255,255,0.06)' stroke-width='1' transform='skewX(-12)'/> <rect x='358' y='230' width='80' height='60' fill='none' stroke='rgba(255,255,255,0.06)' stroke-width='1' transform='skewX(-12)'/> <rect x='589' y='359' width='80' height='60' fill='none' stroke='rgba(255,255,255,0.06)' stroke-width='1' transform='skewX(-12)'/> <rect x='490' y='294' width='80' height='60' fill='none' stroke='rgba(255,255,255,0.06)' stroke-width='1' transform='skewX(-12)'/> <rect x='69' y='206' width='80' height='60' fill='none' stroke='rgba(255,255,255,0.06)' stroke-width='1' transform='skewX(-12)'/>
+  <rect x='0' y='0' width='1200' height='675' fill='url(#glow)'/>
+  <g opacity='0.5'>
+    <path d='M0 570 L1200 470 L1200 520 L0 620 Z' fill='#f5b82e' opacity='0.08'/>
+    <path d='M0 640 L1200 540 L1200 555 L0 655 Z' fill='#f5b82e' opacity='0.14'/>
+  </g>
+  <g transform='translate(76 320) rotate(-90)' opacity='0.5'>
+    <text font-family='Arial, sans-serif' font-size='120' font-weight='800' letter-spacing='18' fill='#f5b82e'>1</text>
+  </g>
+  <g transform='translate(90 560)'>
+    <text font-family='Arial, sans-serif' font-size='30' font-weight='700' letter-spacing='8' fill='#ffffff' opacity='0.92'>PROYECTO 1</text>
+    <text y='40' font-family='Arial, sans-serif' font-size='17' font-weight='400' letter-spacing='6' fill='#ffffff' opacity='0.45'>WESTBRIDGE DEMOLITION</text>
+  </g>
+</svg>

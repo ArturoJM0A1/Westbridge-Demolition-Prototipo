@@ -1,0 +1,34 @@
+[
+  {
+    "id": "t1",
+    "quote": "Westbridge demolió un edificio de 14 niveles a menos de tres metros de nuestras oficinas sin un solo día de interrupción. La ingeniería y el monitoreo de vibraciones fueron impecables.",
+    "author": "Sandra Okafor",
+    "role": "Vicepresidenta de Desarrollo",
+    "company": "Harborline Development",
+    "rating": 5
+  },
+  {
+    "id": "t2",
+    "quote": "Trabajaron de noche en nuestro hotel sin que un solo huésped notara la demolición. Cada planta amanecía limpia y operativa. Es el estándar que esperamos en todos nuestros proyectos.",
+    "author": "Marco Delgado",
+    "role": "Director de Operaciones",
+    "company": "Riviera Hospitality Group",
+    "rating": 5
+  },
+  {
+    "id": "t3",
+    "quote": "La tasa de reciclaje del 93% no solo cumplió nuestros objetivos de sostenibilidad: redujo los costos de disposición en un 22%. El nivel de trazabilidad documental fue superior al de cualquier otro contratista.",
+    "author": "Elena Reyes",
+    "role": "Gerente de Proyectos",
+    "company": "Meridian Retail Trust",
+    "rating": 5
+  },
+  {
+    "id": "t4",
+    "quote": "Coordinamos la demolición selectiva de un pabellón médico sin detener las urgencias del hospital contiguo. El profesionalismo de sus cuadrillas fue reconocido incluso por nuestro personal clínico.",
+    "author": "Dr. James Whitfield",
+    "role": "Director de Instalaciones",
+    "company": "Holy Cross Health System",
+    "rating": 5
+  }
+]

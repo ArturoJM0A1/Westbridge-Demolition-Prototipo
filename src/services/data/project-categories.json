@@ -1,0 +1,8 @@
+[
+  { "id": "comercial", "label": "Comercial" },
+  { "id": "industrial", "label": "Industrial" },
+  { "id": "minorista", "label": "Retail" },
+  { "id": "institucional", "label": "Institucional" },
+  { "id": "hospitalidad", "label": "Hospitalidad" },
+  { "id": "infraestructura", "label": "Infraestructura" }
+]

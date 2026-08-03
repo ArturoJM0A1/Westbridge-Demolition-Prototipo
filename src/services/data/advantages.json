@@ -1,0 +1,42 @@
+[
+  {
+    "id": "engineering",
+    "icon": "compass",
+    "title": "Ingeniería propia",
+    "description": "Departamento interno de ingeniería de demolición que diseña y firma cada plan, soporte y secuencia de derribo.",
+    "stat": {
+      "value": "100%",
+      "label": "Planes con firma de ingeniero"
+    }
+  },
+  {
+    "id": "safety",
+    "icon": "shield",
+    "title": "Seguridad demostrada",
+    "description": "Más de 1 millón de horas-hombre sin lesiones con tiempo perdido y una tasa EMR de 0.0.",
+    "stat": {
+      "value": "0.0",
+      "label": "Tasa de incidentes EMR"
+    }
+  },
+  {
+    "id": "on-time",
+    "icon": "clock",
+    "title": "Cumplimiento de plazo",
+    "description": "El 98% de nuestros proyectos se entregan en o antes del cronograma, con reportes semanales transparentes.",
+    "stat": {
+      "value": "98%",
+      "label": "Entregas a tiempo"
+    }
+  },
+  {
+    "id": "recycling",
+    "icon": "recycle",
+    "title": "Sostenibilidad operativa",
+    "description": "Planta propia de reciclaje que desvía el 91% de los escombros del vertedero, con certificación por proyecto.",
+    "stat": {
+      "value": "91%",
+      "label": "Material reciclado"
+    }
+  }
+]

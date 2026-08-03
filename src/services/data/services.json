@@ -1,0 +1,177 @@
+[
+  {
+    "id": "structural",
+    "slug": "demolicion-estructural",
+    "title": "Demolición estructural",
+    "shortDescription": "Derribo total o parcial de edificios, estructuras de concreto y acero con planificación de ingeniería previa.",
+    "description": "Ejecutamos demoliciones estructurales completas de edificios, plantas industriales, silos, tanques y estructuras de concreto armado. Cada proyecto comienza con ingeniería de reversa, evaluación de patologías, análisis de impacto y un plan de derribo aprobado. Trabajamos con excavadoras de alto alcance, pinzas de demolición y métodos de implosión controlada cuando las condiciones del sitio lo permiten.",
+    "image": {
+      "src": "https://picsum.photos/seed/wb-service-1/1200/800",
+      "alt": "Demolición estructural de un edificio comercial"
+    },
+    "icon": "building",
+    "benefits": [
+      "Planes de derribo sellados por ingeniería estructural",
+      "Cumplimiento total de códigos y permisos municipales",
+      "Secuenciación por fases para minimizar cierres operativos",
+      "Monitoreo de vibraciones y asentamientos en tiempo real"
+    ],
+    "scope": [
+      "Edificios de hasta 14 niveles",
+      "Naves industriales y bodegas",
+      "Concreto armado, postensado y acero",
+      "Estructuras de estacionamientos"
+    ],
+    "results": "Cronogramas cumplidos al día en más del 98% de los proyectos estructurales entregados."
+  },
+  {
+    "id": "interior",
+    "slug": "demolicion-interior",
+    "title": "Demolición interior y strip-out",
+    "shortDescription": "Desmantelamiento completo de interiores comerciales: tabiques, acabados, MEP y mobiliario fijo.",
+    "description": "Preparamos espacios comerciales para su remodelación mediante el desmantelamiento total de interiores. Retiramos tabiquería, cielos falsos, pisos, instalaciones mecánicas, eléctricas y de plomería, así como mobiliario fijo y equipos obsoletos. El trabajo se coordina con cierre de plantas, protección de áreas ocupadas y restauración de sistemas críticos.",
+    "image": {
+      "src": "https://picsum.photos/seed/wb-service-2/1200/800",
+      "alt": "Demolición interior de un espacio comercial"
+    },
+    "icon": "layers",
+    "benefits": [
+      "Coordinación con fachadas y áreas operativas activas",
+      "Desconexión certificada de servicios MEP",
+      "Inventario de materiales reutilizables y reciclables",
+      "Cronogramas nocturnos o de fin de semana"
+    ],
+    "scope": [
+      "Oficinas y edificios corporativos",
+      "Tiendas, restaurantes y locales",
+      "Hospitales y clínicas en operación",
+      "Hoteles con huéspedes presentes"
+    ],
+    "results": "Restauración de espacios en hasta 40% menos tiempo que promedios de mercado."
+  },
+  {
+    "id": "selective",
+    "slug": "demolicion-selectiva",
+    "title": "Demolición selectiva y de precisión",
+    "shortDescription": "Retiro quirúrgico de elementos específicos sin comprometer la integridad de la estructura existente.",
+    "description": "Cuando el proyecto exige conservar la estructura, ejecutamos demolición selectiva de losas, vigas, muros de carga, núcleos de escalera y fachadas. Utilizamos corte con sierra diamantada, perforación y hilo de corte para secciones de alta precisión, con apuntalamiento temporal certificado y monitoreo de la respuesta estructural.",
+    "image": {
+      "src": "https://picsum.photos/seed/wb-service-3/1200/800",
+      "alt": "Demolición selectiva con corte de precisión"
+    },
+    "icon": "crosshair",
+    "benefits": [
+      "Corte con sierra diamantada sin impacto en zonas contiguas",
+      "Apuntalamiento temporal con cálculo estructural",
+      "Protección de fachadas y elementos patrimoniales",
+      "Reducción de escombros y polvo controlado"
+    ],
+    "scope": [
+      "Apertura de vanos en muros de carga",
+      "Retiro de losas y entrepisos",
+      "Corte de columnas y vigas postensadas",
+      "Fachadas y elementos arquitectónicos"
+    ],
+    "results": "Tolerancias de corte de ±10 mm verificadas con topografía láser."
+  },
+  {
+    "id": "excavation",
+    "slug": "excavacion",
+    "title": "Excavación y movimiento de tierras",
+    "shortDescription": "Excavación masiva, nivelación de terrenos, retiro de cimentaciones y manejo de suelos.",
+    "description": "Preparamos el terreno para nuevas construcciones mediante excavación masiva, retiro de cimentaciones y losas existentes, nivelación y compactación certificada. Contamos con flota propia de excavadoras, retroexcavadoras, cargadores y camiones de volteo, lo que garantiza control de calidad y disponibilidad inmediata.",
+    "image": {
+      "src": "https://picsum.photos/seed/wb-service-4/1200/800",
+      "alt": "Excavación y movimiento de tierras en obra"
+    },
+    "icon": "truck",
+    "benefits": [
+      "Flota propia, sin dependencia de terceros",
+      "Pruebas de compactación y densidad certificadas",
+      "Plan de manejo de aguas y control de erosión",
+      "Transporte y disposición documentados"
+    ],
+    "scope": [
+      "Excavación masiva y en cajón",
+      "Retiro de cimentaciones profundas",
+      "Nivelación y rasantes",
+      "Disposición de suelos no contaminados"
+    ],
+    "results": "Manejo de hasta 12.000 m³ de material por mes con trazabilidad completa."
+  },
+  {
+    "id": "recycling",
+    "slug": "reciclaje",
+    "title": "Reciclaje y gestión de escombros",
+    "shortDescription": "Valorización de escombros con tasas de reciclaje superiores al 90% y disposición documentada.",
+    "description": "Gestionamos la totalidad del ciclo de vida de los escombros. En nuestra planta, el concreto y el mampuesto se trituran para reutilizarse como base en nuevas obras, mientras que el metal se recupera para fundición y los materiales inertes se segregan por tipo. Cada carga cuenta con manifiesto de disposición para cumplimiento de la Florida DEP.",
+    "image": {
+      "src": "https://picsum.photos/seed/wb-service-5/1200/800",
+      "alt": "Planta de reciclaje y segregación de escombros"
+    },
+    "icon": "recycle",
+    "benefits": [
+      "Certificados de reciclaje por proyecto",
+      "Reducción de costos de disposición",
+      "Cumplimiento de créditos LEED",
+      "Rutas optimizadas de acarreo"
+    ],
+    "scope": [
+      "Trituración de concreto in situ",
+      "Recuperación de metales ferrosos y no ferrosos",
+      "Segregación de madera, vidrio y plástico",
+      "Manifiestos ante la Florida DEP"
+    ],
+    "results": "Tasa de desvío de vertedero del 91% promedio en los últimos 5 años."
+  },
+  {
+    "id": "remediation",
+    "slug": "remediacion",
+    "title": "Remediación de materiales peligrosos",
+    "shortDescription": "Retiro y disposición certificada de asbesto, plomo, PCB y otros materiales peligrosos.",
+    "description": "Ejecutamos la remediación de materiales peligrosos previa a la demolición: asbesto, pintura con plomo, PCB, mercurio y combustibles. Contamos con supervisores certificados por la Florida DEP y EPA, cámaras de contención negativa y procedimientos de limpieza que garantizan un área libre de contaminantes antes del derribo.",
+    "image": {
+      "src": "https://picsum.photos/seed/wb-service-6/1200/800",
+      "alt": "Remediación certificada de materiales peligrosos"
+    },
+    "icon": "shield",
+    "benefits": [
+      "Supervisores con licencia Florida DEP y EPA",
+      "Aire ambiental monitoreado en tiempo real",
+      "Disposición en instalaciones autorizadas",
+      "Liberación certificada previa a demolición"
+    ],
+    "scope": [
+      "Asbesto friable y no friable",
+      "Pintura con plomo",
+      "Transformadores y PCB",
+      "Tanques subterráneos de combustible"
+    ],
+    "results": "Cero hallazgos de incumplimiento en auditorías de la EPA desde 2015."
+  },
+  {
+    "id": "shoring",
+    "slug": "apuntalamiento",
+    "title": "Apuntalamiento y estabilización",
+    "shortDescription": "Sistemas de soporte temporal calculados por ingeniería para proteger estructuras y personal.",
+    "description": "Diseñamos e instalamos sistemas de apuntalamiento, bracing y shoring necesarios durante demoliciones parciales o trabajos adyacentes. Cada sistema se calcula por nuestro equipo de ingeniería, se instala con cuadrillas certificadas y se inspecciona periódicamente con reportes de condición firmados.",
+    "image": {
+      "src": "https://picsum.photos/seed/wb-service-7/1200/800",
+      "alt": "Sistemas de apuntalamiento metálico"
+    },
+    "icon": "strut",
+    "benefits": [
+      "Diseños con firma de ingeniero estructural",
+      "Reutilización de sistemas modulares",
+      "Inspecciones periódicas documentadas",
+      "Instalación y remoción con procedimiento seguro"
+    ],
+    "scope": [
+      "Soportes de muros y losas",
+      "Apuntalamiento de excavaciones",
+      "Bracing de fachadas",
+      "Estabilización de estructuras dañadas"
+    ],
+    "results": "Participación en 60+ proyectos de estabilización sin incidentes registrables."
+  }
+]

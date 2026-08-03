@@ -1,0 +1,108 @@
+{
+  "safetyStats": [
+    {
+      "id": "lti",
+      "value": "0",
+      "label": "Lesiones con tiempo perdido",
+      "detail": "En más de 1M de horas-hombre"
+    },
+    {
+      "id": "ein",
+      "value": "0.0",
+      "label": "Tasa de incidentes EMR",
+      "detail": "Índice de experiencia de modificación"
+    },
+    {
+      "id": "training",
+      "value": "100%",
+      "label": "Cuadrillas certificadas",
+      "detail": "OSHA 30 y entrenamiento continuo"
+    },
+    {
+      "id": "audits",
+      "value": "120+",
+      "label": "Inspecciones anuales",
+      "detail": "Auditorías de campo programadas"
+    }
+  ],
+  "pillars": [
+    {
+      "id": "plan",
+      "icon": "compass",
+      "title": "Planificación previa",
+      "description": "Todo trabajo comienza con un análisis de riesgos (JHA), revisión de ingeniería y un plan de trabajo específico del sitio, revisado con la cuadrilla antes de tocar el primer material."
+    },
+    {
+      "id": "protect",
+      "icon": "helmet",
+      "title": "Protección integral",
+      "description": "EPP de nivel industrial, barreras de contención, control de polvo y de ruido, y señalización perimetral que protege tanto a nuestro personal como al público y a las operaciones vecinas."
+    },
+    {
+      "id": "train",
+      "icon": "book",
+      "title": "Entrenamiento continuo",
+      "description": "Capacitación semanal de seguridad, certificaciones anuales de operadores y simulacros de emergencia. Cada trabajador de campo está certificado en primeros auxilios y manejo de equipos."
+    },
+    {
+      "id": "verify",
+      "icon": "clipboard",
+      "title": "Verificación independiente",
+      "description": "Inspecciones periódicas de terceros, auditorías sorpresa y revisión mensual del programa de seguridad por nuestro director de EHS. La seguridad se mide y se reporta en cada proyecto."
+    }
+  ],
+  "process": [
+    {
+      "id": "p1",
+      "title": "Evaluación del sitio",
+      "detail": "Inspección estructural, de materiales y de riesgos ambientales antes de cotizar."
+    },
+    {
+      "id": "p2",
+      "title": "Ingeniería de plan",
+      "detail": "Plan de derribo, secuenciación y sistemas de soporte firmados por ingenieros."
+    },
+    {
+      "id": "p3",
+      "title": "Permisos y aseguramiento",
+      "detail": "Gestión de permisos municipales, notificaciones y verificación de seguros."
+    },
+    {
+      "id": "p4",
+      "title": "Barreras y protección",
+      "detail": "Instalación de cerramientos, control de polvo y monitoreo ambiental."
+    },
+    {
+      "id": "p5",
+      "title": "Ejecución controlada",
+      "detail": "Demolición por fases con monitoreo de vibraciones y supervisión en sitio."
+    },
+    {
+      "id": "p6",
+      "title": "Restauración y cierre",
+      "detail": "Retiro de escombros, reciclaje documentado y entrega del sitio liberado."
+    }
+  ],
+  "standards": [
+    {
+      "id": "s1",
+      "title": "OSHA 29 CFR 1926",
+      "detail": "Cumplimiento pleno de los estándares de construcción de OSHA."
+    },
+    {
+      "id": "s2",
+      "title": "FDOT & DBPR",
+      "detail": "Contratista calificado por el FDOT y licenciado por el DBPR de Florida."
+    },
+    {
+      "id": "s3",
+      "title": "ISO 45001",
+      "detail": "Sistema de gestión de seguridad y salud en el trabajo alineado a la norma."
+    },
+    {
+      "id": "s4",
+      "title": "EPA & Florida DEP",
+      "detail": "Manifestos y disposición certificada de materiales peligrosos."
+    }
+  ]
+}

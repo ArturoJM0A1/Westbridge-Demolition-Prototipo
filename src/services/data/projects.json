@@ -1,0 +1,250 @@
+[
+  {
+    "id": "coral-gables-plaza",
+    "slug": "plaza-coral-gables",
+    "title": "Plaza Coral Gables",
+    "categoryId": "minorista",
+    "location": "Coral Gables, FL",
+    "client": "Meridian Retail Trust",
+    "year": "2025",
+    "duration": "14 semanas",
+    "image": { "src": "https://picsum.photos/seed/wb-project-1-1/1200/675", "alt": "Plaza Coral Gables en proceso de demolición selectiva" },
+    "gallery": [
+      { "src": "https://picsum.photos/seed/wb-project-1-1/1200/675", "alt": "Vista general del sitio" },
+      { "src": "https://picsum.photos/seed/wb-project-1-2/1200/675", "alt": "Fase operativa de demolición" },
+      { "src": "https://picsum.photos/seed/wb-project-1-3/1200/675", "alt": "Resultado final del área liberada" }
+    ],
+    "summary": "Demolición selectiva de un centro comercial anclado para habilitar un nuevo formato de uso mixto, sin interrumpir a los inquilinos en operación.",
+    "description": "El proyecto consistió en retirar 18.000 m² de techos, tabiquería y acabados de un centro comercial en operación, conservando la estructura de concreto existente. Se trabajó en horario nocturno y con barreras de contención para proteger a los inquilinos activos. La secuenciación por fases permitió que cada bloque liberado se entregara a la constructora en la misma semana.",
+    "scope": [
+      "18.000 m² de desmantelamiento interior",
+      "Conservación de estructura de concreto",
+      "Trabajo nocturno con restauración diurna",
+      "Control de polvo con barreras y extracción HEPA"
+    ],
+    "results": [
+      "Cero quejas de inquilinos durante toda la obra",
+      "Entrega por fases dentro del cronograma",
+      "93% de los escombros reciclados en planta propia"
+    ],
+    "size": "18.000 m²",
+    "budget": "US$ 1.2M"
+  },
+  {
+    "id": "miami-tech-tower",
+    "slug": "miami-tech-tower",
+    "title": "Miami Tech Tower",
+    "categoryId": "comercial",
+    "location": "Downtown Miami, FL",
+    "client": "Harborline Development",
+    "year": "2024",
+    "duration": "8 meses",
+    "image": { "src": "https://picsum.photos/seed/wb-project-2-1/1200/675", "alt": "Derribo estructural de la torre de oficinas Miami Tech Tower" },
+    "gallery": [
+      { "src": "https://picsum.photos/seed/wb-project-2-1/1200/675", "alt": "Excavadora de alto alcance sobre estructura" },
+      { "src": "https://picsum.photos/seed/wb-project-2-2/1200/675", "alt": "Secuenciación del derribo por niveles" },
+      { "src": "https://picsum.photos/seed/wb-project-2-3/1200/675", "alt": "Nivelación final del terreno" }
+    ],
+    "summary": "Derribo estructural completo de un edificio de oficinas de 14 niveles en pleno distrito financiero, con monitoreo de vibraciones en estructuras colindantes.",
+    "description": "Torre de 14 niveles con estructura de concreto postensado, rodeada por tres edificios ocupados y una vía arterial. Se ejecutó la demolición por niveles descendentes con excavadoras de alto alcance de 90 metros, monitoreo sísmico continuo y protección de la red de tránsito. El plan de ingeniería fue aprobado por la ciudad de Miami tras un análisis de impacto de 3 meses.",
+    "scope": [
+      "Derribo descendente de 14 niveles",
+      "Monitoreo de vibraciones y asentamientos en 12 puntos",
+      "Protección de estructuras colindantes",
+      "Gestión de 62.000 toneladas de escombros"
+    ],
+    "results": [
+      "Ninguna fisura nueva en estructuras adyacentes",
+      "Vibraciones dentro del límite requerido por normativa",
+      "Entrega del terreno 2 semanas antes del contrato"
+    ],
+    "size": "14 niveles · 28.000 m²",
+    "budget": "US$ 4.8M"
+  },
+  {
+    "id": "doral-warehouse",
+    "slug": "doral-warehouse-district",
+    "title": "Warehouse District Doral",
+    "categoryId": "industrial",
+    "location": "Doral, FL",
+    "client": "Flagler Industrial Partners",
+    "year": "2024",
+    "duration": "9 semanas",
+    "image": { "src": "https://picsum.photos/seed/wb-project-3-1/1200/675", "alt": "Strip-out industrial en Warehouse District Doral" },
+    "gallery": [
+      { "src": "https://picsum.photos/seed/wb-project-3-1/1200/675", "alt": "Interior industrial previo al desmantelamiento" },
+      { "src": "https://picsum.photos/seed/wb-project-3-2/1200/675", "alt": "Retiro de sistemas MEP y racks" },
+      { "src": "https://picsum.photos/seed/wb-project-3-3/1200/675", "alt": "Espacio limpio listo para reconversión" }
+    ],
+    "summary": "Strip-out industrial de 42.000 m²: retiro de racks, sistemas MEP, pisos industriales y losas de concreto dañadas para reconversión logística.",
+    "description": "Reconversión de una bodega de distribución de gran formato. Se retiraron 14.000 metros lineales de racks de almacenamiento, sistemas eléctricos y de sprinklers, así como 6.000 m² de losas de concreto que no cumplían especificaciones. La logística de retiro se coordinó con el desmantelamiento de equipos pesados para habilitar la nueva operación del cliente a tiempo.",
+    "scope": [
+      "Retiro de racks y sistemas de almacenamiento",
+      "Desconexión y retiro de MEP",
+      "Demolición de losas de concreto con corte diamantado",
+      "Reciclaje de acero y mampostería"
+    ],
+    "results": [
+      "8.200 toneladas de acero recuperadas para fundición",
+      "Cronograma cumplido con cero horas extra",
+      "Entrega de áreas limpias en ventanas de 48 horas"
+    ],
+    "size": "42.000 m²",
+    "budget": "US$ 2.1M"
+  },
+  {
+    "id": "riviera-point-hotel",
+    "slug": "riviera-point-hotel",
+    "title": "Riviera Point Hotel",
+    "categoryId": "hospitalidad",
+    "location": "Hollywood, FL",
+    "client": "Riviera Hospitality Group",
+    "year": "2025",
+    "duration": "6 semanas",
+    "image": { "src": "https://picsum.photos/seed/wb-project-4-1/1200/675", "alt": "Renovación interior del Riviera Point Hotel" },
+    "gallery": [
+      { "src": "https://picsum.photos/seed/wb-project-4-1/1200/675", "alt": "Piso del hotel antes del desmantelamiento" },
+      { "src": "https://picsum.photos/seed/wb-project-4-2/1200/675", "alt": "Trabajo nocturno por plantas" },
+      { "src": "https://picsum.photos/seed/wb-project-4-3/1200/675", "alt": "Plantas listas para la nueva instalación" }
+    ],
+    "summary": "Desmantelamiento interior de 160 habitaciones de hotel en operación, ejecutado por plantas completas en horario nocturno.",
+    "description": "El hotel continuó recibiendo huéspedes mientras se renovaban sus plantas. Trabajamos de 11:00 PM a 5:00 AM, con sellado hermético de ductos, rutas de acarreo por montacargas de servicio y limpieza profunda al amanecer. Cada planta se devolvió operativa antes de la hora de check-in, sin ninguna interrupción del servicio al huésped.",
+    "scope": [
+      "160 habitaciones y 4 niveles de áreas comunes",
+      "Trabajo exclusivamente nocturno",
+      "Sellado de ductos y control de polvo en interiores",
+      "Restauración completa diaria de áreas de paso"
+    ],
+    "results": [
+      "Cero interrupciones operativas al hotel",
+      "87% de desviación de materiales de vertedero",
+      "Repetibilidad del cliente en una segunda propiedad"
+    ],
+    "size": "12.500 m²",
+    "budget": "US$ 980K"
+  },
+  {
+    "id": "katherine-pavilion",
+    "slug": "saint-katherine-pavilion",
+    "title": "Saint Katherine Pavilion",
+    "categoryId": "institucional",
+    "location": "Fort Lauderdale, FL",
+    "client": "Holy Cross Health System",
+    "year": "2023",
+    "duration": "12 semanas",
+    "image": { "src": "https://picsum.photos/seed/wb-project-5-1/1200/675", "alt": "Demolición del pabellón médico Saint Katherine" },
+    "gallery": [
+      { "src": "https://picsum.photos/seed/wb-project-5-1/1200/675", "alt": "Demolición selectiva del pabellón" },
+      { "src": "https://picsum.photos/seed/wb-project-5-2/1200/675", "alt": "Corte diamantado de losas" },
+      { "src": "https://picsum.photos/seed/wb-project-5-3/1200/675", "alt": "Sitio entregado para construcción" }
+    ],
+    "summary": "Demolición selectiva de un pabellón médico de 3 niveles adyacente a un hospital en pleno funcionamiento.",
+    "description": "Se demolieron tres niveles de un pabellón ambulatorio manteniendo activos los servicios de urgencias y cirugía en el edificio contiguo, a menos de 4 metros. Se ejecutó corte diamantado de losas postensadas, apuntalamiento temporal certificado y monitoreo de vibraciones ante equipos de imagen médica sensibles. La coordinación con el personal hospitalario fue permanente.",
+    "scope": [
+      "Demolición de pabellón de 3 niveles",
+      "Corte de losas postensadas",
+      "Monitoreo ante equipos de resonancia magnética",
+      "Zonas de protección para circulación de pacientes"
+    ],
+    "results": [
+      "Servicios de urgencias operando 100% del tiempo",
+      "Cumplimiento de protocolos de imagen sensibles",
+      "Reconocimiento del sistema de salud por seguridad"
+    ],
+    "size": "6.800 m²",
+    "budget": "US$ 1.7M"
+  },
+  {
+    "id": "palm-beach-parking",
+    "slug": "palm-beach-parking-structure",
+    "title": "Palm Beach Parking Structure",
+    "categoryId": "infraestructura",
+    "location": "West Palm Beach, FL",
+    "client": "City of West Palm Beach",
+    "year": "2023",
+    "duration": "7 meses",
+    "image": { "src": "https://picsum.photos/seed/wb-project-6-1/1200/675", "alt": "Demolición del estacionamiento Palm Beach" },
+    "gallery": [
+      { "src": "https://picsum.photos/seed/wb-project-6-1/1200/675", "alt": "Estructura de estacionamiento previa al derribo" },
+      { "src": "https://picsum.photos/seed/wb-project-6-2/1200/675", "alt": "Derrumbamiento controlado por rampas" },
+      { "src": "https://picsum.photos/seed/wb-project-6-3/1200/675", "alt": "Excavación de cimentaciones y nivelación" }
+    ],
+    "summary": "Derribo de un estacionamiento de 6 niveles junto a la vía férrea y zonas comerciales activas, con derrumbamiento controlado por rampas.",
+    "description": "Estructura de estacionamiento de 6 niveles con frente a la vía férrea de Tri-Rail. Se diseñó un plan de derrumbamiento por secciones en horas de menor tránsito, con barreras de contención, riego de polvo y control de escombros sobre la vía. El contrato municipal incluyó la excavación de cimentaciones y la nivelación final del lote.",
+    "scope": [
+      "Derribo de estructura de 6 niveles",
+      "Protección de la vía férrea activa",
+      "Excavación de 900 pilotes de cimentación",
+      "Nivelación y entrega de lote urbanizable"
+    ],
+    "results": [
+      "Cero interrupciones al servicio ferroviario",
+      "Vibraciones dentro de norma de estructuras adyacentes",
+      "Entrega final bajo el presupuesto aprobado"
+    ],
+    "size": "23.000 m² · 6 niveles",
+    "budget": "US$ 3.4M"
+  },
+  {
+    "id": "coconut-grove-cinema",
+    "slug": "coconut-grove-cinema",
+    "title": "Coconut Grove Cinema",
+    "categoryId": "comercial",
+    "location": "Coconut Grove, FL",
+    "client": "Grove Entertainment Group",
+    "year": "2024",
+    "duration": "5 semanas",
+    "image": { "src": "https://picsum.photos/seed/wb-project-7-1/1200/675", "alt": "Desmantelamiento del complejo de cines Coconut Grove" },
+    "gallery": [
+      { "src": "https://picsum.photos/seed/wb-project-7-1/1200/675", "alt": "Pantallas y butacas previas al retiro" },
+      { "src": "https://picsum.photos/seed/wb-project-7-2/1200/675", "alt": "Retiro de equipos de proyección" },
+      { "src": "https://picsum.photos/seed/wb-project-7-3/1200/675", "alt": "Espacio convertido para nuevo desarrollo" }
+    ],
+    "summary": "Desmantelamiento completo de un complejo de 12 salas de cine, incluyendo pendientes de piso, equipos de proyección y fachada interior.",
+    "description": "Retiro integral de un cine de 12 salas en un centro comercial histórico. Se removieron los pisos inclinados de concreto, la fachada interior, la cabina de proyección y los equipos de sonido de alta sensibilidad que requirieron protocolo de manejo especial. La demolición de las pendientes de piso se ejecutó con corte diamantado para preservar la losa original.",
+    "scope": [
+      "Retiro de pendientes de piso con corte diamantado",
+      "Desmontaje de equipos de proyección y sonido",
+      "Remoción de fachada interior",
+      "Restauración de losa de concreto original"
+    ],
+    "results": [
+      "Equipos de proyección preservados sin daños",
+      "Losa original entregada apta para nueva losa",
+      "Proyecto terminado 4 días antes del plazo"
+    ],
+    "size": "7.400 m²",
+    "budget": "US$ 640K"
+  },
+  {
+    "id": "sunrise-distribution",
+    "slug": "sunrise-distribution-hub",
+    "title": "Sunrise Distribution Hub",
+    "categoryId": "industrial",
+    "location": "Sunrise, FL",
+    "client": "BlueLine Logistics",
+    "year": "2025",
+    "duration": "11 semanas",
+    "image": { "src": "https://picsum.photos/seed/wb-project-8-1/1200/675", "alt": "Demolición parcial de naves en Sunrise Distribution Hub" },
+    "gallery": [
+      { "src": "https://picsum.photos/seed/wb-project-8-1/1200/675", "alt": "Naves industriales previas a la intervención" },
+      { "src": "https://picsum.photos/seed/wb-project-8-2/1200/675", "alt": "Retiro de muros cortina metálicos" },
+      { "src": "https://picsum.photos/seed/wb-project-8-3/1200/675", "alt": "Estructura ampliada y lista para operación" }
+    ],
+    "summary": "Demolición parcial de 2 naves tipo tilt-wall para ampliación logística, manteniendo operativa la tercera nave.",
+    "description": "El cliente requirió unificar tres naves industriales en un solo hub logístico. Demolimos muros cortina metálicos y dos muros tilt-wall de 12 metros, manteniendo la tercera nave con su operación de distribución funcionando. La secuenciación se coordinó con el traslado temporal de inventario y el corte de conexiones MEP por sectores.",
+    "scope": [
+      "Retiro de 2 muros tilt-wall de 12 m",
+      "Corte de conexiones MEP por fases",
+      "Operación logística sin interrupciones",
+      "Acarreo y reciclaje de paneles de concreto"
+    ],
+    "results": [
+      "Cero días de paro logístico para el cliente",
+      "12.000 toneladas de concreto recicladas",
+      "Ampliación habilitada en el plazo pactado"
+    ],
+    "size": "31.000 m²",
+    "budget": "US$ 1.9M"
+  }
+]

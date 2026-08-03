@@ -1,0 +1,174 @@
+/* ============================================================
+   WESTBRIDGE DEMOLITION — Design Tokens
+   Single source of truth for the visual language.
+   ------------------------------------------------------------
+   Palette: industrial grays, ink black, white, safety yellow.
+   ============================================================ */
+
+:root {
+  /* ---------- Color: Brand & Ink ---------- */
+  --color-ink-950: #07090c;
+  --color-ink-900: #0d1117;
+  --color-ink-800: #141a22;
+  --color-ink-700: #1d2631;
+  --color-ink-600: #2a3644;
+
+  /* ---------- Color: Concrete (gray scale) ---------- */
+  --color-gray-100: #f4f5f7;
+  --color-gray-200: #e8eaee;
+  --color-gray-300: #d6dae0;
+  --color-gray-400: #aab1ba;
+  --color-gray-500: #7c8691;
+  --color-gray-600: #5b646e;
+  --color-gray-700: #454c55;
+
+  /* ---------- Color: Accent (safety yellow) ---------- */
+  --color-accent: #f5b82e;
+  --color-accent-strong: #e8a90f;
+  --color-accent-soft: #fdf3dc;
+  --color-accent-contrast: #1a1300;
+
+  /* ---------- Color: Steel blue (corporate secondary) ---------- */
+  --color-blue-300: #9fc0d9;
+  --color-blue-400: #6d9dc0;
+  --color-blue-500: #3f7ba6;
+  --color-blue-600: #2c5f86;
+  --color-blue-700: #1f4a6b;
+  --color-blue-800: #163750;
+  --color-blue-900: #0e2638;
+  --color-blue-soft: #e8f1f8;
+
+  /* ---------- Color: Safety yellow (hover / active / details) ---------- */
+  --color-yellow-400: #f7c953;
+  --color-yellow-500: #f5b82e;
+  --color-yellow-600: #e0a514;
+  --color-yellow-700: #b07f0d;
+  --color-yellow-soft: #fdf3dc;
+
+  /* ---------- Color: Interaction semantics ---------- */
+  --color-link: var(--color-blue-600);
+  --color-link-hover: var(--color-yellow-600);
+  --color-link-inverse: var(--color-blue-400);
+  --color-link-inverse-hover: var(--color-yellow-400);
+  --color-interactive: var(--color-yellow-500);
+  --color-interactive-strong: var(--color-yellow-600);
+
+  /* ---------- Color: Functional ---------- */
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-success: #2e9e63;
+  --color-success-soft: #e6f4ec;
+  --color-danger: #d64545;
+  --color-danger-soft: #fbeaea;
+  --color-focus: #4d9fff;
+
+  /* ---------- Text ---------- */
+  --color-text-primary: #12161c;
+  --color-text-secondary: #5b646e;
+  --color-text-muted: #7c8691;
+  --color-text-inverse: #f4f5f7;
+  --color-text-inverse-muted: #aab1ba;
+
+  /* ---------- Surfaces ---------- */
+  --color-surface: var(--color-white);
+  --color-surface-alt: var(--color-gray-100);
+  --color-surface-inverse: var(--color-ink-900);
+  --color-surface-inverse-2: var(--color-ink-800);
+  --color-surface-inverse-3: var(--color-ink-700);
+  --color-border: var(--color-gray-300);
+  --color-border-dark: var(--color-ink-600);
+
+  /* ---------- Typography ---------- */
+  --font-display: 'Oswald', 'Arial Narrow', sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-base: 1rem;
+  --fs-md: 1.125rem;
+  --fs-lg: 1.375rem;
+  --fs-xl: 1.75rem;
+  --fs-2xl: 2.25rem;
+  --fs-3xl: 3rem;
+  --fs-4xl: 4rem;
+  --fs-5xl: 5rem;
+
+  --fs-hero: clamp(2.6rem, 6vw, 4.75rem);
+  --fs-display: clamp(2rem, 4.5vw, 3.5rem);
+  --fs-section: clamp(1.75rem, 3.4vw, 2.75rem);
+  --fs-card-title: clamp(1.15rem, 2vw, 1.5rem);
+
+  --fw-normal: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  --lh-tight: 1.05;
+  --lh-snug: 1.25;
+  --lh-normal: 1.55;
+
+  --ls-wide: 0.08em;
+  --ls-wider: 0.16em;
+  --ls-widest: 0.28em;
+
+  /* ---------- Spacing scale ---------- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 2.5rem;
+  --space-8: 3rem;
+  --space-9: 4rem;
+  --space-10: 5rem;
+  --space-11: 6rem;
+  --space-12: 8rem;
+
+  --section-pad: clamp(4rem, 8vw, 7.5rem);
+
+  /* ---------- Layout ---------- */
+  --container-max: 76rem;
+  --container-pad: clamp(1.25rem, 4vw, 2rem);
+  --header-height: 4.75rem;
+
+  /* ---------- Radius ---------- */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.875rem;
+  --radius-xl: 1.25rem;
+  --radius-full: 9999px;
+
+  /* ---------- Shadows ---------- */
+  --shadow-sm: 0 1px 2px rgba(7, 9, 12, 0.06);
+  --shadow-md: 0 6px 20px rgba(7, 9, 12, 0.08);
+  --shadow-lg: 0 16px 40px rgba(7, 9, 12, 0.14);
+  --shadow-xl: 0 24px 60px rgba(7, 9, 12, 0.2);
+  --shadow-accent: 0 10px 30px rgba(245, 184, 46, 0.35);
+
+  /* ---------- Borders ---------- */
+  --border-width: 1px;
+  --border-width-thick: 2px;
+  --border-accent: 3px solid var(--color-accent);
+
+  /* ---------- Transitions ---------- */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 450ms cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* ---------- Z-index scale ---------- */
+  --z-base: 1;
+  --z-sticky: 100;
+  --z-overlay: 200;
+  --z-modal: 300;
+  --z-toast: 400;
+
+  /* ---------- Motion ---------- */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-fast: 180ms;
+  --duration-base: 300ms;
+  --duration-slow: 650ms;
+
+  /* ---------- Grid ---------- */
+  --grid-gap: clamp(1.25rem, 3vw, 2rem);
+}

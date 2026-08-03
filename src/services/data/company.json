@@ -1,0 +1,84 @@
+{
+  "history": {
+    "founded": "2003",
+    "origin": "Fundada en 2003 en una bodega de Hialeah por dos ingenieros de demolición, Westbridge nació con una convicción: la demolición comercial no debía ser la parte sucia del desarrollo, sino su fase más disciplinada.",
+    "milestones": [
+      {
+        "id": "m1",
+        "year": "2003",
+        "title": "Fundación",
+        "detail": "Primera obra en Miami: desmantelamiento de una fábrica textil de 4.000 m²."
+      },
+      {
+        "id": "m2",
+        "year": "2009",
+        "title": "Flota propia",
+        "detail": "Inversión en la primera excavadora de alto alcance, reduciendo la dependencia de subcontratos."
+      },
+      {
+        "id": "m3",
+        "year": "2014",
+        "title": "Planta de reciclaje",
+        "detail": "Apertura de la planta de trituración de concreto y segregación de metales en Doral."
+      },
+      {
+        "id": "m4",
+        "year": "2019",
+        "title": "1M horas sin pérdidas",
+        "detail": "Alcance del hito de seguridad de un millón de horas-hombre sin lesiones con tiempo perdido."
+      },
+      {
+        "id": "m5",
+        "year": "2022",
+        "title": "División de remediación",
+        "detail": "Certificación Florida DEP para manejo de asbesto y materiales peligrosos con equipo propio."
+      },
+      {
+        "id": "m6",
+        "year": "2025",
+        "title": "480 proyectos",
+        "detail": "Entrega del proyecto número 480 en West Palm Beach, consolidando presencia en todo el sur de Florida."
+      }
+    ]
+  },
+  "philosophy": {
+    "title": "Filosofía de trabajo",
+    "intro": "Creemos que una demolición excelente pasa desapercibida: el sitio se entrega limpio, a tiempo y sin incidentes. Ese resultado no es casualidad; es el producto de disciplina en cada fase.",
+    "principles": [
+      "Documentamos todo lo que ocurre en obra, porque la trazabilidad evita disputas y asegura calidad.",
+      "Diseñamos para el siguiente contratista: cada sitio se entrega como nos gustaría recibirlo.",
+      "El costo de una falla se paga con tiempo; la prevención se paga con disciplina. Elegimos la segunda.",
+      "Trabajamos con calendario de obra y actualizaciones semanales, no con sorpresas."
+    ]
+  },
+  "capacity": {
+    "title": "Capacidad operativa",
+    "intro": "Nuestra infraestructura propia nos permite comprometer recursos y cumplirlos, sin depender de la disponibilidad de terceros.",
+    "highlights": [
+      {
+        "id": "c1",
+        "icon": "truck",
+        "title": "Flota propia",
+        "detail": "18 excavadoras, 5 de alto alcance, 24 camiones de volteo y 8 plataformas de elevación."
+      },
+      {
+        "id": "c2",
+        "icon": "users",
+        "title": "Equipo estable",
+        "detail": "110 empleados directos con rotación inferior al 8% anual, incluidos 12 superintendentes."
+      },
+      {
+        "id": "c3",
+        "icon": "factory",
+        "title": "Planta de reciclaje",
+        "detail": "Capacidad de trituración de 2.000 toneladas de concreto por semana en Doral."
+      },
+      {
+        "id": "c4",
+        "icon": "gear",
+        "title": "Ingeniería integrada",
+        "detail": "Departamento interno de ingeniería de demolición con firma estructural para planes y soportes."
+      }
+    ]
+  }
+}

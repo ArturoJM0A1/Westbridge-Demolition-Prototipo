@@ -1,0 +1,31 @@
+{
+  "differentiators": [
+    {
+      "id": "d1",
+      "title": "Ingeniería integrada, no subcontratada",
+      "text": "El 100% de los planes de derribo y sistemas de soporte se calculan y firman internamente. Esto elimina fricciones entre contratistas y acelera la aprobación municipal."
+    },
+    {
+      "id": "d2",
+      "title": "Presupuesto cerrado, sin sorpresas",
+      "text": "Cotizamos por alcance definido con partidas desglosadas. Los cambios se notifican por escrito con su impacto antes de ejecutarse, nunca después."
+    },
+    {
+      "id": "d3",
+      "title": "Comunicación semanal con evidencia",
+      "text": "Reporte fotográfico, avance contra cronograma, registro de camiones y estado de permisos cada semana. El cliente siempre sabe dónde está su proyecto."
+    },
+    {
+      "id": "d4",
+      "title": "Operación en entornos vivos",
+      "text": "Hoteles, hospitales y centros comerciales en funcionamiento son nuestra especialidad. La convivencia con terceros está en nuestro ADN operativo."
+    }
+  ],
+  "commitments": [
+    "No iniciamos una obra sin permisos completos",
+    "No tocamos un elemento sin su plan de ingeniería",
+    "No sacrificamos seguridad para cumplir una fecha",
+    "No entregamos un sitio sin su manifiesto de disposición",
+    "No dejamos preguntas sin respuesta en 24 horas"
+  ]
+}
