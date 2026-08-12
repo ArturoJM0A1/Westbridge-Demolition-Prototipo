@@ -220,6 +220,11 @@
 .card--pad-md {
   padding: var(--space-6);
 }
+
+.card .card--pad-md .value-card h3{
+    color: #7a5a00!important;
+
+}
 .card--pad-lg {
   padding: var(--space-8);
 }

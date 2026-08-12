@@ -599,16 +599,17 @@
   gap: var(--space-4);
   padding: var(--space-6);
   height: 100%;
+  margin: 8px
 }
 .value-card__title {
   font-size: var(--fs-card-title);
   text-transform: uppercase;
-  color: var(--color-text-inverse);
+  color: rgb(163, 149, 28);
 }
 .value-card__description {
   font-size: var(--fs-sm);
   line-height: var(--lh-normal);
-  color: var(--color-text-inverse-muted);
+  color: rgb(96, 96, 96);
 }
 
 .philosophy__principles {

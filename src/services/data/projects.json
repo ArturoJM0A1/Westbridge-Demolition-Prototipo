@@ -39,9 +39,9 @@
     "client": "Harborline Development",
     "year": "2024",
     "duration": "8 meses",
-    "image": { "src": "https://picsum.photos/seed/wb-project-2-1/1200/675", "alt": "Derribo estructural de la torre de oficinas Miami Tech Tower" },
+    "image": { "src": "https://i0.wp.com/pablobedrossian.com/wp-content/uploads/2023/07/flatiron-building-01.jpg?ssl=1", "alt": "Derribo estructural de la torre de oficinas Miami Tech Tower" },
     "gallery": [
-      { "src": "https://picsum.photos/seed/wb-project-2-1/1200/675", "alt": "Excavadora de alto alcance sobre estructura" },
+      { "src": "https://i0.wp.com/pablobedrossian.com/wp-content/uploads/2023/07/flatiron-building-01.jpg?ssl=1", "alt": "Excavadora de alto alcance sobre estructura" },
       { "src": "https://picsum.photos/seed/wb-project-2-2/1200/675", "alt": "Secuenciación del derribo por niveles" },
       { "src": "https://picsum.photos/seed/wb-project-2-3/1200/675", "alt": "Nivelación final del terreno" }
     ],
@@ -70,9 +70,9 @@
     "client": "Flagler Industrial Partners",
     "year": "2024",
     "duration": "9 semanas",
-    "image": { "src": "https://picsum.photos/seed/wb-project-3-1/1200/675", "alt": "Strip-out industrial en Warehouse District Doral" },
+    "image": { "src": "https://i0.wp.com/nyagain.com/wp-content/uploads/2019/05/Hearst-768x1024.jpg?resize=640%2C853", "alt": "Strip-out industrial en Warehouse District Doral" },
     "gallery": [
-      { "src": "https://picsum.photos/seed/wb-project-3-1/1200/675", "alt": "Interior industrial previo al desmantelamiento" },
+      { "src": "https://i0.wp.com/nyagain.com/wp-content/uploads/2019/05/Hearst-768x1024.jpg?resize=640%2C853", "alt": "Interior industrial previo al desmantelamiento" },
       { "src": "https://picsum.photos/seed/wb-project-3-2/1200/675", "alt": "Retiro de sistemas MEP y racks" },
       { "src": "https://picsum.photos/seed/wb-project-3-3/1200/675", "alt": "Espacio limpio listo para reconversión" }
     ],
